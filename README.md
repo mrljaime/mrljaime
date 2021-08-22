@@ -1,6 +1,7 @@
 ## Hello everyone ✌🏼
 
 My name is Jaime and I love make things, specially when techonolgy is involved. 
+I'm from México city and I born in 1995 in a little place in Puebla, México call Atzitzintla. I started work in techonology when I was nineteen. Autodidact.
 
 Currenty I working as Software Architect at [Osmos](https://osmos.mx) building things to make payroll easy and configurable, also make it fast and scalable from one to thousands of human resources in your company. 
 
