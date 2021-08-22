@@ -5,7 +5,7 @@ I'm from México city and I born in 1995 in a little place in Puebla, México ca
 
 Currenty I working as Software Architect at [Osmos](https://osmos.mx) building things to make payroll easy and configurable, also make it fast and scalable from one to thousands of human resources in your company. 
 
-Right know I'm taking a Linux Foundation course for Kubernetes for Devlelopers, just to survey me into more "cloud" stacks, because I learn that cloud is not only make EC2 instances in AWS and put the code there. 
+Right know I'm taking a Linux Foundation course for Kubernetes for Devlelopers, just to survey me into more "cloud" stacks, because I learn that cloud is not only make EC2 instances in AWS and put the code there and use Docker to set local stacks for development. Cloud is insance I hope build things with that kind of infrastructure, specially becauase comes with great scalability and performance. 
 
 My favorite programming languages to make things are Java and PHP ❤️
 I'm a Symfony framework lover. When I have some free time will see what happens with his certification 😊
