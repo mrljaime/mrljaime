@@ -9,7 +9,8 @@ Right know I'm taking a Linux Foundation course for Kubernetes for Devlelopers, 
 
 My favorite programming languages to make things are Java and PHP ❤️
 
-I'm a Symfony framework lover. When I have some free time will see what happens with his certification 😊
+I'm a Symfony framework lover. When I have some free time will see what happens with his certification 😊 
+
 I like to build software that scale as God commands, specially when concurrent things are involved. 
 
 I'm a frustrate writer because last year and this days I dont' have enough time to share the things I learn through the time, but I writed some post at [Medium](https://medium.com/@jaimeramirezc) that shows some basic things to do in Symfony. 
