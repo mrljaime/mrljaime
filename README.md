@@ -8,6 +8,7 @@ Currenty I working as Software Architect at [Osmos](https://osmos.mx) building t
 Right know I'm taking a Linux Foundation course for Kubernetes for Devlelopers, just to survey me into more "cloud" stacks, because I learn that cloud is not only make EC2 instances in AWS and put the code there and use Docker to set local stacks for development. Cloud is insance I hope build things with that kind of infrastructure, specially becauase comes with great scalability and performance requirements.
 
 My favorite programming languages to make things are Java and PHP ❤️
+
 I'm a Symfony framework lover. When I have some free time will see what happens with his certification 😊
 I like to build software that scale as God commands, specially when concurrent things are involved. 
 
